@@ -1,0 +1,5 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_DB=ompas_web
+POSTGRES_USER=HYBpdzaQWcgVoBvrIAifggrEPEuppOgb
+POSTGRES_PASSWORD=axtJzokifOgzfOM1qvlz3WQRvsuNXkIhTj0uNSWwuePyPvXabKDeS6bExFqgsoyh
